@@ -9,4 +9,3 @@ lst = []
 lst = [12,15.5,"computer","physics"]
 #Creating a list with four elements
 #___________________________________________
-print(lst)
