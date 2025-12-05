@@ -39,7 +39,7 @@ print(lst1)
 lst1.reverse()
 print(lst1)
 print("____________________________________")
-#method sort = This method links elements in ascending and descending order.
+#method sort = This method links elements in ascending order.
 num = [1,4,52,12,3,2,10,5]
 print(num)
 num.sort()
